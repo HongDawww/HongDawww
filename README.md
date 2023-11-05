@@ -27,7 +27,7 @@
 
 
  ## my repagitory
-1. [naiver](https://github.com/HongDawww/naiver.git)
+1. [네이버클론코딩](https://github.com/HongDawww/naiver.git)
 2. [bbs](https://github.com/HongDawww/bbs.git)
 3. [miniboard](https://github.com/HongDawww/miniboard.git)
 4. [DeepSleepToDoList](https://github.com/HongDawww/DeepSleepToDoList.git)
