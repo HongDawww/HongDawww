@@ -28,12 +28,12 @@
 
  ## my repagitory
 1. [네이버클론코딩](https://github.com/HongDawww/naiver.git)
-2. [bbs](https://github.com/HongDawww/bbs.git)
-3. [miniboard](https://github.com/HongDawww/miniboard.git)
-4. [DeepSleepToDoList](https://github.com/HongDawww/DeepSleepToDoList.git)
-5. [JS_TODOLIST](https://github.com/HongDawww/crom_app_1.git)
-6. [tbl_member](https://github.com/HongDawww/tbl_member_.git)
-7. [SIDE-PROJECT-COLLECTION](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION.git)
+2. [PHP 게시판 (1)](https://github.com/HongDawww/bbs.git)
+3. [PHP 게사판 (2)](https://github.com/HongDawww/miniboard.git)
+4. [PHP 게시판 (3)](https://github.com/HongDawww/tbl_member_.git)
+5. [TO DO LIST (1)](https://github.com/HongDawww/DeepSleepToDoList.git)
+6. [자바스크립트_TODOLIST](https://github.com/HongDawww/crom_app_1.git)
+7. [사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION.git)
 
 
    
