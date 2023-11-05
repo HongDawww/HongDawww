@@ -32,7 +32,7 @@
 3. [PHP 게사판 (2)](https://github.com/HongDawww/miniboard.git)
 4. [PHP 게시판 (3)](https://github.com/HongDawww/tbl_member_.git)
 5. [TO DO LIST (1)](https://github.com/HongDawww/DeepSleepToDoList.git)
-6. [자바스크립트 TO DO LIST (2)](https://github.com/HongDawww/crom_app_1.git)
+6. [자바스크립트 TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
 7. [사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION.git)
 8. [연애유형 테스트](https://12lovetypetest12.netlify.app)
 9. [챌린지 페이지](https://hongdawww.github.io/challenge-page/callenge-page/index.html)
