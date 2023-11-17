@@ -5,6 +5,11 @@
 
 	📚 Tech Stack 📚
 
+<div style="display: flex; align-items: flex-start;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
+	<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
+	<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" />
+</div>
   
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
