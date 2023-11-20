@@ -48,6 +48,7 @@
 9. [챌린지 페이지](https://hongdawww.github.io/challenge-page/callenge-page/index.html)
 10. [나의 일기장](https://github.com/HongDawww/self-project/tree/main/my-diary)
 11. [회원가입폼](https://github.com/HongDawww/self-project/tree/main/sign-in)
+12. [JS그림판](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION/tree/main/canvas)
 
 
    
