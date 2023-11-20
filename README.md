@@ -32,6 +32,7 @@
 
 
  ## my repagitory
+0. [사이좋은 사람들 , 싸이월드](https://github.com/HongDawww/self-project.git)
 1. [네이버클론코딩](https://github.com/HongDawww/naiver.git)
 2. [PHP 게시판 (1)](https://github.com/HongDawww/bbs.git)
 3. [PHP 게사판 (2)](https://github.com/HongDawww/miniboard.git)
