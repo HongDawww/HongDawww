@@ -40,7 +40,7 @@
 ## my repagitory -JavaScript
 1. [TO DO LIST(1)](https://github.com/HongDawww/DeepSleepToDoList)
 2. [TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
-3. [TO DO LIST(3)]
+3. [TO DO LIST(3)](https://github.com/HongDawww/self-project/tree/main/todolist(3))
 4. [디데이카운터](https://github.com/HongDawww/self-project/tree/main/D-Day-counter)
 5. [JS그림판](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION/tree/main/canvas)
 6. [연애유형 테스트](https://12lovetypetest12.netlify.app)
