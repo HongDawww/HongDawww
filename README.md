@@ -38,18 +38,18 @@
 1.[사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION)
 
 ## my repagitory -JavaScript
-1. [TO DO LIST(1)](https://github.com/HongDawww/DeepSleepToDoList)
-2. [TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
-3. [TO DO LIST(3)](https://github.com/HongDawww/self-project/tree/main/todolist(3))
-4. [디데이카운터](https://github.com/HongDawww/self-project/tree/main/D-Day-counter)
-5. [JS그림판](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION/tree/main/canvas)
-6. [연애유형 테스트](https://12lovetypetest12.netlify.app)
-7. [챌린지 페이지](https://hongdawww.github.io/challenge-page/callenge-page/index.html)
+1. [TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
+2. [TO DO LIST(3)](https://github.com/HongDawww/self-project/tree/main/todolist(3))
+3. [디데이카운터](https://github.com/HongDawww/self-project/tree/main/D-Day-counter)
+4. [JS그림판](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION/tree/main/canvas)
+5. [연애유형 테스트](https://12lovetypetest12.netlify.app)
+6. [챌린지 페이지](https://hongdawww.github.io/challenge-page/callenge-page/index.html)
  
 ## my repagitory - PHP
 1. [PHP 게시판 (1)](https://github.com/HongDawww/bbs.git)
 2. [PHP 게사판 (2)](https://github.com/HongDawww/miniboard.git)
 3. [PHP 게시판 (3)](https://github.com/HongDawww/tbl_member_.git)
+4. [TO DO LIST(1)](https://github.com/HongDawww/DeepSleepToDoList)
 
 
 
