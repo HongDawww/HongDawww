@@ -34,23 +34,33 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HongDawww&show_icons=true">
 </div>
 
+## my repagitory 
+1.[사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION)
 
- ## my repagitory
-0. [사이좋은 사람들 , 싸이월드](https://github.com/HongDawww/self-project.git)
+## my repagitory -JavaScript
+1. [TO DO LIST(1)](https://github.com/HongDawww/DeepSleepToDoList)
+2. [TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
+3. [TO DO LIST(3)]
+4. [디데이카운터](https://github.com/HongDawww/self-project/tree/main/D-Day-counter)
+5. [JS그림판](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION/tree/main/canvas)
+6. [연애유형 테스트](https://12lovetypetest12.netlify.app)
+7. [챌린지 페이지](https://hongdawww.github.io/challenge-page/callenge-page/index.html)
+ 
+## my repagitory - PHP
+1. [PHP 게시판 (1)](https://github.com/HongDawww/bbs.git)
+2. [PHP 게사판 (2)](https://github.com/HongDawww/miniboard.git)
+3. [PHP 게시판 (3)](https://github.com/HongDawww/tbl_member_.git)
+
+
+
+## my repagitory - html / css
 1. [네이버클론코딩](https://github.com/HongDawww/naiver.git)
-2. [PHP 게시판 (1)](https://github.com/HongDawww/bbs.git)
-3. [PHP 게사판 (2)](https://github.com/HongDawww/miniboard.git)
-4. [PHP 게시판 (3)](https://github.com/HongDawww/tbl_member_.git)
-5. [TO DO LIST (1)](https://github.com/HongDawww/DeepSleepToDoList)
-6. [자바스크립트 TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
-7. [사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION.git)
-8. [연애유형 테스트](https://12lovetypetest12.netlify.app)
-9. [챌린지 페이지](https://hongdawww.github.io/challenge-page/callenge-page/index.html)
-10. [나의 일기장](https://github.com/HongDawww/self-project/tree/main/my-diary)
-11. [회원가입폼](https://github.com/HongDawww/self-project/tree/main/sign-in)
-12. [JS그림판](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION/tree/main/canvas)
-13. [반응형 쇼핑몰](https://github.com/HongDawww/self-project/tree/main/my-shop)
-14. [디데이카운터](https://github.com/HongDawww/self-project/tree/main/D-Day-counter)
+2. [사이좋은 사람들 , 싸이월드](https://github.com/HongDawww/self-project.git)
+3. [회원가입폼](https://github.com/HongDawww/self-project/tree/main/sign-in)
+4. [나의 일기장](https://github.com/HongDawww/self-project/tree/main/my-diary)
+5. [반응형 쇼핑몰](https://github.com/HongDawww/self-project/tree/main/my-shop)
+
+
 
 
    
