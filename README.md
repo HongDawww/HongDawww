@@ -7,8 +7,8 @@
 
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
-	<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
-	<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" />
 </div>
   
 <div>
