@@ -35,8 +35,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HongDawww&show_icons=true">
 </div>
 
-## my repagitory 
-1.[사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION)
+
+## my repagitory - html / css
+1. [네이버클론코딩](https://github.com/HongDawww/naiver.git)
+2. [사이좋은 사람들 , 싸이월드](https://github.com/HongDawww/self-project.git)
+3. [회원가입폼](https://github.com/HongDawww/self-project/tree/main/sign-in)
+4. [나의 일기장](https://github.com/HongDawww/self-project/tree/main/my-diary)
+5. [반응형 쇼핑몰](https://github.com/HongDawww/self-project/tree/main/my-shop)
+
+## my repagitory - react
+1. [게시판](https://github.com/HongDawww/class)
+
 
 ## my repagitory -JavaScript
 1. [TO DO LIST(2)](https://hongdawww.github.io/todolist/JS_TODOLIST/html/index.html)
@@ -53,19 +62,8 @@
 4. [TO DO LIST(1)](https://github.com/HongDawww/DeepSleepToDoList)
 
 
-
-## my repagitory - html / css
-1. [네이버클론코딩](https://github.com/HongDawww/naiver.git)
-2. [사이좋은 사람들 , 싸이월드](https://github.com/HongDawww/self-project.git)
-3. [회원가입폼](https://github.com/HongDawww/self-project/tree/main/sign-in)
-4. [나의 일기장](https://github.com/HongDawww/self-project/tree/main/my-diary)
-5. [반응형 쇼핑몰](https://github.com/HongDawww/self-project/tree/main/my-shop)
-
-
-
-## my repagitory - react
-1. [게시판](https://github.com/HongDawww/class)
-
+## my repagitory 
+1.[사이드 프로젝트 모음](https://github.com/HongDawww/SIDE-PROJECT-COLLECTION)
 
    
 
