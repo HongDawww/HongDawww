@@ -9,6 +9,7 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 </div>
   
 <div>
